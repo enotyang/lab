@@ -9,4 +9,5 @@ int main() {
 	a1 = a % 100;
 	a2 = a / 100;
 	printf("%d%d", a1, a2);
+	return 0;
 }
